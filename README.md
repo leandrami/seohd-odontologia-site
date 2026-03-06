@@ -77,7 +77,7 @@ Este projeto pode evoluir com:
 
 ---
 
-# 👩‍💻 Sobre a autora
+# 👩‍💻 Autora
 
 **Leandra Michely**
 
