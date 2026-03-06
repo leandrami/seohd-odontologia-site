@@ -1,4 +1,4 @@
-# 🦷 SEOHD Odontologia — Website
+# 🦷 SEOHD Odontologia — Site
 
 Website institucional desenvolvido para a clínica **SEOHD Odontologia**, com foco na apresentação dos serviços odontológicos, valores da empresa e informações de contato.
 
