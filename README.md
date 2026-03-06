@@ -85,4 +85,3 @@ Este projeto pode evoluir com:
 
 ✨ Este projeto faz parte do meu portfólio e representa parte da minha experiência com **design digital e desenvolvimento front-end**.
 
-# 📂 Estrutura do projeto
